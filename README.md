@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ardwiinoo.ardwiinoo" />
   <a href="https://github.com/Cramouchegit"><img src="https://img.shields.io/github/followers/Cramouchegit?label=followers&style=social"/></a>
-  <a href="https://user-badge.committers.top/indonesia/ardwiinoo"><img src="https://user-badge.committers.top/indonesia/ardwiinoo.svg" alt="committers.top badge"></a>
+<!--   <a href="https://user-badge.committers.top/indonesia/ardwiinoo"><img src="https://user-badge.committers.top/indonesia/ardwiinoo.svg" alt="committers.top badge"></a> -->
 </p>
 
 <p align="center">
