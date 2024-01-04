@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/scaraatsx_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?u">
-    <img src="https://img.shields.io/badge/guntur-alamsyah-putra-544a4928a?u?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+<!--     <img src="https://img.shields.io/badge/guntur-alamsyah-putra-544a4928a?u?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black"> -->
   </a>
   <a href="guntur.alamsyahptr@gmail.com">
     <img src="https://img.shields.io/badge/guntur.alamsyahptr@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
