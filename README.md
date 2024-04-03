@@ -21,7 +21,7 @@
 </h3>
 
 ## Use To Code
-<h3 align="center">Pernah Memakai Bahasa</h3>
+<h3 align="center">Pernah Memakai</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
