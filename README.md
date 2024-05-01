@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a href="https://www.instagram.com/scaraatsx?igsh=MWl4N2VyNnNvaXd1Yw==">
+   <a href="https://www.instagram.com/wanderrerss?igsh=MWl4N2VyNnNvaXd1Yw==">
     <img src="https://img.shields.io/badge/scaraatsx_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?u">
