@@ -44,7 +44,6 @@ Engage in continuous learning through online courses, workshops, and seminars to
 Develop and implement data-driven solutions across a variety of projects, demonstrating strong analytical and problem-solving skills.
 Actively engage in the technology community, network with professionals, and contribute to discussions about data science and technology.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNrNHAydTMyd3B1aDNscmwxZ3ptdjV2cjBzandjc3RubjFieG95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp" width="282" height="380" style="" frameBorder="0"/>
 </div>
