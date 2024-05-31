@@ -14,11 +14,7 @@
 </p>
 
 <!-- Intro  -->
-<img src="https://i.pinimg.com/564x/d7/99/a1/d799a1b1206482ae8865c663e0be2bb3.jpg" class="container"/>
-.container {
-  align-items: center;
-  justify-content: center;
-}
+<img src="https://i.pinimg.com/564x/d7/99/a1/d799a1b1206482ae8865c663e0be2bb3.jpg" style="align-items: center; justify-content: center;"/>
 
 <h3 align="center">
         <samp>&gt; Hey There🙌!, I am
