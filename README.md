@@ -21,7 +21,7 @@
                 <b><a target="_blank" href="https://alsiam.com">Guntur Alamsyah Putra</a></b>
         </samp>
 </h3>
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="700" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
 
 ## Use To Code
 
