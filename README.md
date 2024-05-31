@@ -22,7 +22,7 @@
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
 
 ## Use To Code
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNrNHAydTMyd3B1aDNscmwxZ3ptdjV2cjBzandjc3RubjFieG95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp" width="382" height="480" style="" frameBorder="0"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNrNHAydTMyd3B1aDNscmwxZ3ptdjV2cjBzandjc3RubjFieG95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp" width="282" height="480" style="" frameBorder="0"/>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
