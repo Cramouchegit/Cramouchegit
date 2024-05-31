@@ -14,12 +14,18 @@
 </p>
 
 <!-- Intro  -->
-<img src="https://i.pinimg.com/564x/d7/99/a1/d799a1b1206482ae8865c663e0be2bb3.jpg" style="justify-content: center;"/>
+<img src="https://i.pinimg.com/564x/d7/99/a1/d799a1b1206482ae8865c663e0be2bb3.jpg" class="container"/>
+.container {
+  align-items: center;
+  justify-content: center;
+}
+
 <h3 align="center">
         <samp>&gt; Hey There🙌!, I am
                 <b><a target="_blank" href="https://alsiam.com">Guntur Alamsyah Putra</a></b>
         </samp>
 </h3>
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ## Use To Code
 
