@@ -14,6 +14,7 @@
 </p>
 
 <!-- Intro  -->
+<img src="https://i.pinimg.com/564x/d7/99/a1/d799a1b1206482ae8865c663e0be2bb3.jpg"/>
 <h3 align="center">
         <samp>&gt; Hey There🙌!, I am
                 <b><a target="_blank" href="https://alsiam.com">Guntur Alamsyah Putra</a></b>
