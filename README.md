@@ -26,11 +26,11 @@
 </p>
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey There🙌!, I am
                 <b><a target="_blank" href="https://alsiam.com">Guntur Alamsyah Putra</a></b>
         </samp>
-</h3>
+</h1>
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
 </div>
