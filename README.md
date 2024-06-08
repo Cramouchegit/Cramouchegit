@@ -65,7 +65,7 @@ Actively engage in the technology community, network with professionals, and con
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,git,github,vscode,figma,postman,npm,vercel,linux,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=powershell,git,github,vscode,figma,postman,npm,vercel" />
     <br/>
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
   </a>
