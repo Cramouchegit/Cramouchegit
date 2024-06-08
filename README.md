@@ -54,6 +54,7 @@ Actively engage in the technology community, network with professionals, and con
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,php,mysql,laravel" />
   </a>
 </p>
