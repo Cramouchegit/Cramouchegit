@@ -49,7 +49,7 @@ Actively engage in the technology community, network with professionals, and con
 </div>
 
 
-## 💻MY SKILLS💻
+## 💻MY SKILLS & TECH STACK💻
 
 <p align="center">
   <a href="https://skillicons.dev">
