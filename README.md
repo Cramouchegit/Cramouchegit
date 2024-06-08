@@ -57,7 +57,9 @@ Actively engage in the technology community, network with professionals, and con
   </a>
 </p>
 
-## 💻MY TOOLS💻
+<br/>
+
+## 💻MY TOOLS & Operating System💻
 
 <p align="center">
   <a href="https://skillicons.dev">
