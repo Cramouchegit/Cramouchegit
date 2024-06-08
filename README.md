@@ -51,6 +51,12 @@ Actively engage in the technology community, network with professionals, and con
 
 ## 💻MY SKILLS💻
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,jquery,bootstrap,tailwind,react,vite,nextjs,nodejs,express,php,mysql,laravel," />
+  </a>
+</p>
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
