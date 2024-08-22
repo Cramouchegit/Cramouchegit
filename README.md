@@ -6,10 +6,7 @@
   <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/Wanderrerss">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -28,7 +25,7 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Hey There🙌!, I am
-                <b><a target="_blank" href="https://alsiam.com">Guntur Alamsyah Putra</a></b>
+                <b><a target="_blank" href="https://portfolio-guntur.vercel.app">Guntur Alamsyah Putra</a></b>
         </samp>
 </h1>
 <div id="header" align="center">
