@@ -68,6 +68,45 @@ Actively engage in the technology community, network with professionals, and con
   </a>
 </p>
 
+<br>
+
+```ts
+class gunturAlamsyah {
+  public name: string;
+  public age: number | undefined;
+  public pronouns: string;
+  public occupation: string;
+  public hobby: string;
+  public vocationalSchoolGraduate: string;
+
+  public constructor() {
+    this.name = "Guntur Alamsyah Putra";
+    this.age = 18;
+    this.pronouns = "he/him";
+    this.occupation = "Freelancer";
+    this.hobby = "Programming";
+    this.vocationalSchoolGraduate;
+    ("SMK AL-AQSYAR ISLAMIC SCHOOL");
+  }
+}
+```
+
+<br>
+
+<div align="center">
+
+#### My Github Stats
+
+<a href="https://github.com/rzkfyn">
+   
+![my github stats](https://github-readme-stats.vercel.app/api?username=Cramouchegit&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=Cramouchegit's%20Github%20Stats)
+   
+</a>
+   
+<br>
+
+</div>
+
 
 
 <br/>
