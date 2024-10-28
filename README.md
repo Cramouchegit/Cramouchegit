@@ -57,8 +57,6 @@ Actively engage in the technology community, network with professionals, and con
 
 
  <h1 align="center">💻MY SKILLS & TECH STACK💻</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -76,8 +74,6 @@ Actively engage in the technology community, network with professionals, and con
 <br/>
 
 <h1 align="center">💻MY TOOLS & OPERATING SYSTEM💻</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -86,11 +82,6 @@ Actively engage in the technology community, network with professionals, and con
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
   </a>
 </p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <br/>
 
