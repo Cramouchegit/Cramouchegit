@@ -105,9 +105,15 @@ class gunturAlamsyah {
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cramouchegit&theme=transparent)](https://github.com/Cramouchegit)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Cramouchegit&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Cramouchegit)
    
-</a>
    
 <br>
+
+
+### Languages
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cramouchegit&theme=transparent)](https://github.com/Cramouchegit)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cramouchegit&theme=transparent)](https://github.com/Cramouchegit)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cramouchegit&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/Cramouchegit)
 
 </div>
 
