@@ -32,6 +32,11 @@
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
 </div>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
   ### Hello Brother, I am a dedicated individual with a passion for computer science and technology. I am driven by the desire to contribute to the progress of my nation through my work as a fullstack web developer in the future. With a strong foundation in the field and a commitment to continuous learning, will strive to make a meaningful impact in the world of technology.
 
 For now I want to focus on:
@@ -44,6 +49,11 @@ Actively engage in the technology community, network with professionals, and con
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNrNHAydTMyd3B1aDNscmwxZ3ptdjV2cjBzandjc3RubjFieG95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp" width="282" height="380" style="" frameBorder="0"/>
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
  <h1 align="center">💻MY SKILLS & TECH STACK💻</h1>
@@ -68,6 +78,11 @@ Actively engage in the technology community, network with professionals, and con
   </a>
 </p>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <br>
 
 ```ts
@@ -90,6 +105,11 @@ class gunturAlamsyah {
   }
 }
 ```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <br>
 
