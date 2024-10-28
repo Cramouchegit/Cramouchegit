@@ -95,11 +95,15 @@ class gunturAlamsyah {
 
 <div align="center">
 
-#### My Github Stats
+### Recent Activities
 
-<a href="https://github.com/Cramouchegit">
-   
-![my github stats](https://github-readme-stats.vercel.app/api?username=Cramouchegit&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=Cramouchegit's%20Github%20Stats)
+<p align="center">
+  <a href="https://github.com/Cramouchegit"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Cramouchegit&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/Cramouchegit"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Cramouchegit&theme=transparent&hide_border=true" /></a>
+</p>
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cramouchegit&theme=transparent)](https://github.com/Cramouchegit)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Cramouchegit&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Cramouchegit)
    
 </a>
    
