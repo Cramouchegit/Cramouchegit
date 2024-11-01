@@ -20,6 +20,7 @@ class gunturAlamsyah {
 ```
 
 ![Profile views](https://komarev.com/ghpvc/?username=Cramouchegit&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://github.com/Cramouchegit"><img src="https://img.shields.io/github/followers/Cramouchegit?label=followers&style=social"/></a>
 
 <br />
 
@@ -41,9 +42,8 @@ class gunturAlamsyah {
       <img src="https://img.shields.io/badge/crmchscara_-0078D4?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
     </a>
     <a href="https://github.com/Cramouchegit">
-      <img src="https://img.shields.io/badge/Cramouchegit_-0078D4?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Cramouchegit_-0078D4?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=black&color=pink">
     </a>
-   <a href="https://github.com/Cramouchegit"><img src="https://img.shields.io/github/followers/Cramouchegit?label=followers&style=social"/></a>
 </div>
 
 <br />
