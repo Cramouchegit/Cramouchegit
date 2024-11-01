@@ -63,7 +63,7 @@ class gunturAlamsyah {
 <br/>
 
 
-  ### Hello Brother, I am a dedicated individual with a passion for computer science and technology. I am driven by the desire to contribute to the progress of my nation through my work as a fullstack web developer in the future. With a strong foundation in the field and a commitment to continuous learning, will strive to make a meaningful impact in the world of technology.
+**<h3 align="left">🚀 I am a dedicated individual with a passion for computer science and technology. I am driven by the desire to contribute to the progress of my nation through my work as a fullstack web developer in the future. With a strong foundation in the field and a commitment to continuous learning, will strive to make a meaningful impact in the world of technology.</h3>**
 
 For now I want to focus on:
 
