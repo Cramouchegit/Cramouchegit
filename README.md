@@ -36,14 +36,14 @@ class gunturAlamsyah {
   <a href="https://x.com/Wanderrerss">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <p>
+    <a href="https://www.instagram.com/wanderrerss?igsh=MWl4N2VyNnNvaXd1Yw==">
+      <img src="https://img.shields.io/badge/Wanderrers_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
+    <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?u"></a>
+  </p>
 </div>
 
-<p>
-  <a href="https://www.instagram.com/wanderrerss?igsh=MWl4N2VyNnNvaXd1Yw==">
-    <img src="https://img.shields.io/badge/Wanderrers_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?u"></a>
-</p>
 
 <!-- Intro  -->
 <h1 align="center">
