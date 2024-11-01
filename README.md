@@ -25,7 +25,11 @@ class gunturAlamsyah {
   <a href="https://github.com/Cramouchegit"><img src="https://img.shields.io/github/followers/Cramouchegit?label=followers&style=social"/></a>
 </p>
 
-<div id="badges" align="center">
+<h1>
+   Social Media     
+</h1>
+
+<div id="badges">
   <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -34,15 +38,11 @@ class gunturAlamsyah {
   </a>
 </div>
 
-<p align="center">
-   <a href="https://www.instagram.com/wanderrerss?igsh=MWl4N2VyNnNvaXd1Yw==">
+<p>
+  <a href="https://www.instagram.com/wanderrerss?igsh=MWl4N2VyNnNvaXd1Yw==">
     <img src="https://img.shields.io/badge/Wanderrers_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?u">
-  </a>
-  <a href="guntur.alamsyahptr@gmail.com">
-    <img src="https://img.shields.io/badge/guntur.alamsyahptr@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
+  <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?u"></a>
 </p>
 
 <!-- Intro  -->
