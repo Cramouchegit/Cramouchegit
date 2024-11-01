@@ -44,6 +44,8 @@ class gunturAlamsyah {
     </a>
 </div>
 
+<br />
+
 
 <!-- Intro  -->
 <h1 align="center">
@@ -52,7 +54,7 @@ class gunturAlamsyah {
         </samp>
 </h1>
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="1000" />
 </div>
 
 <br/>
