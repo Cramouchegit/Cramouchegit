@@ -106,19 +106,13 @@ Actively engage in the technology community, network with professionals, and con
 <br>
 
 
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <br>
 
-<div align="center">
+<div>
 
 ### Recent Activities
 
-<p align="center">
+<p>
   <a href="https://github.com/Cramouchegit"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Cramouchegit&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/Cramouchegit"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Cramouchegit&theme=transparent&hide_border=true" /></a>
 </p>
