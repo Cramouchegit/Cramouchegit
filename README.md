@@ -40,6 +40,9 @@ class gunturAlamsyah {
     <a href="https://www.threads.net/@crmchscara">
       <img src="https://img.shields.io/badge/crmchscara_-0078D4?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
     </a>
+    <a href="https://github.com/Cramouchegit">
+      <img src="https://img.shields.io/badge/Cramouchegit_-0078D4?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
    <a href="https://github.com/Cramouchegit"><img src="https://img.shields.io/github/followers/Cramouchegit?label=followers&style=social"/></a>
 </div>
 
