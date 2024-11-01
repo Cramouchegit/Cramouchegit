@@ -54,7 +54,7 @@ class gunturAlamsyah {
         </samp>
 </h1>
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="1000" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="900" />
 </div>
 
 <br/>
@@ -76,10 +76,10 @@ Actively engage in the technology community, network with professionals, and con
 
 
 
- <h1 align="center">💻MY SKILLS & TECH STACK💻</h1>
+ <h1>🚀MY SKILLS & TECH STACK🚀</h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<p>
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind" />
     <br/>
     <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,mysql" />
@@ -88,10 +88,10 @@ Actively engage in the technology community, network with professionals, and con
 
 <br/>
 
-<h1 align="center">💻MY TOOLS & OPERATING SYSTEM💻</h1>
+<h1>💻MY TOOLS & OPERATING SYSTEM💻</h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<p>
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=powershell,git,github,vscode,postman,npm,vercel" />
     <br/>
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
