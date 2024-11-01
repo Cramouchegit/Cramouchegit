@@ -52,7 +52,7 @@ class gunturAlamsyah {
         </samp>
 </h1>
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/6a953e1b-6eaf-4a13-99e0-b598a0a60ce4" width="500" />
+  <img src="https://github.com/user-attachments/assets/6a953e1b-6eaf-4a13-99e0-b598a0a60ce4" width="1000" />
 </div>
 
 <br/>
