@@ -40,7 +40,7 @@ class gunturAlamsyah {
       <img src="https://img.shields.io/badge/Wanderrers_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
     </a>
     <a href="https://www.threads.net/@crmchscara">
-      <img src="https://img.shields.io/badge/Wanderrers_-0078D4?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/crmchscara_-0078D4?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
     </a>
 </div>
 
