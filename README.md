@@ -19,6 +19,8 @@ class gunturAlamsyah {
 }
 ```
 
+![Profile views](https://komarev.com/ghpvc/?username=Cramouchegit&label=Profile%20views&color=0e75b6&style=flat)
+
 <br />
 
 <h1>
