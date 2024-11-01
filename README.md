@@ -140,8 +140,7 @@ Actively engage in the technology community, network with professionals, and con
 <br/>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cramouchegit&theme=onedark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cramouchegit&repo=https://github.com/Cramouchegit/Portofolio&show_owner=true&theme=react" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cramouchegit&repo=github.com/Cramouchegit/Portofolio&show_owner=true&theme=react" alt="GitHub repo-card Card" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
