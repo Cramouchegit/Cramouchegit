@@ -24,31 +24,6 @@ class gunturAlamsyah {
 
 <br />
 
-<h1>
-   Connect With Me :
-</h1>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/Wanderrerss">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="https://www.instagram.com/wanderrerss?igsh=MWl4N2VyNnNvaXd1Yw==">
-      <img src="https://img.shields.io/badge/Wanderrers_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
-    </a>
-    <a href="https://www.threads.net/@crmchscara">
-      <img src="https://img.shields.io/badge/crmchscara_-0078D4?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
-    </a>
-    <a href="https://github.com/Cramouchegit">
-      <img src="https://img.shields.io/badge/Cramouchegit_-0078D4?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=black&color=black">
-    </a>
-</div>
-
-<br />
-
-
 
 <!-- Intro  -->
 <div id="header" align="center">
@@ -72,6 +47,30 @@ Actively engage in the technology community, network with professionals, and con
 - 💬 Ask me about: **💡 JavaScript, React, Nextjs, Node.js, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged an issue while playing a game!**
 - 📂 Portfolio: **<a href="https://portofoliosite-guntur.vercel.app/" target="_blank">https://portofoliosite-guntur.vercel.app/</a>**
+
+<br />
+
+<h1>
+   Connect With Me :
+</h1>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/guntur-alamsyah-putra-544a4928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/Wanderrerss">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="https://www.instagram.com/wanderrerss?igsh=MWl4N2VyNnNvaXd1Yw==">
+      <img src="https://img.shields.io/badge/Wanderrers_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
+    <a href="https://www.threads.net/@crmchscara">
+      <img src="https://img.shields.io/badge/crmchscara_-0078D4?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
+    <a href="https://github.com/Cramouchegit">
+      <img src="https://img.shields.io/badge/Cramouchegit_-0078D4?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=black&color=black">
+    </a>
+</div>
 
 <br/>
 
