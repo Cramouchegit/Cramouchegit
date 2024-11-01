@@ -51,11 +51,6 @@ class gunturAlamsyah {
 
 
 <!-- Intro  -->
-<h1 align="center">
-        <samp>&gt; Hey There🙌!, I am
-                <b><a target="_blank" href="https://portfolio-guntur.vercel.app">Guntur Alamsyah Putra</a></b>
-        </samp>
-</h1>
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/6a953e1b-6eaf-4a13-99e0-b598a0a60ce4" width="1000" />
 </div>
@@ -65,13 +60,18 @@ class gunturAlamsyah {
 
 **<h3 align="left">🚀 I am a dedicated individual with a passion for computer science and technology. I am driven by the desire to contribute to the progress of my nation through my work as a fullstack web developer in the future. With a strong foundation in the field and a commitment to continuous learning, will strive to make a meaningful impact in the world of technology.</h3>**
 
-For now I want to focus on:
 
-Complete a degree in a relevant field, gaining a solid understanding of the fundamentals of computer science.
+
+**<h3 align="left">About Me</h3>**
+
+- 💼 For now I want to focus on: **💻 Complete a degree in a relevant field, gaining a solid understanding of the fundamentals of computer science.
 Engage in continuous learning through online courses, workshops, and seminars to stay abreast of the latest developments in data science.
 Develop and implement data-driven solutions across a variety of projects, demonstrating strong analytical and problem-solving skills.
-Actively engage in the technology community, network with professionals, and contribute to discussions about data science and technology.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Actively engage in the technology community, network with professionals, and contribute to discussions about data science and technology.**
+- 🌱 I'm currently learning: **📚 Exploring Golang**
+- 💬 Ask me about: **💡 JavaScript, React, Nextjs, Node.js, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged an issue while playing a game!**
+- 📂 Portfolio: **<a href="https://portofoliosite-guntur.vercel.app/" target="_blank">https://portofoliosite-guntur.vercel.app/</a>**
 
 <br/>
 
