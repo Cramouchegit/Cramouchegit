@@ -1,3 +1,26 @@
+```ts
+class gunturAlamsyah {
+  public name: string;
+  public age: number | undefined;
+  public pronouns: string;
+  public occupation: string;
+  public hobby: string;
+  public vocationalSchoolGraduate: string;
+
+  public constructor() {
+    this.name = "Guntur Alamsyah Putra";
+    this.age = 18;
+    this.pronouns = "he/him";
+    this.occupation = "Freelancer";
+    this.hobby = "Programming";
+    this.vocationalSchoolGraduate;
+    ("SMK AL-AQSYAR ISLAMIC SCHOOL");
+  }
+}
+```
+
+<br />
+
 <p align="center">
   <a href="https://github.com/Cramouchegit"><img src="https://img.shields.io/github/followers/Cramouchegit?label=followers&style=social"/></a>
 </p>
@@ -34,8 +57,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
   ### Hello Brother, I am a dedicated individual with a passion for computer science and technology. I am driven by the desire to contribute to the progress of my nation through my work as a fullstack web developer in the future. With a strong foundation in the field and a commitment to continuous learning, will strive to make a meaningful impact in the world of technology.
 
@@ -46,9 +67,6 @@ Engage in continuous learning through online courses, workshops, and seminars to
 Develop and implement data-driven solutions across a variety of projects, demonstrating strong analytical and problem-solving skills.
 Actively engage in the technology community, network with professionals, and contribute to discussions about data science and technology.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNrNHAydTMyd3B1aDNscmwxZ3ptdjV2cjBzandjc3RubjFieG95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp" width="282" height="380" style="" frameBorder="0"/>
-</div>
 
 <br/>
 
@@ -65,11 +83,6 @@ Actively engage in the technology community, network with professionals, and con
     <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,mysql" />
   </a>
 </p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <br/>
 
@@ -90,26 +103,7 @@ Actively engage in the technology community, network with professionals, and con
 
 <br>
 
-```ts
-class gunturAlamsyah {
-  public name: string;
-  public age: number | undefined;
-  public pronouns: string;
-  public occupation: string;
-  public hobby: string;
-  public vocationalSchoolGraduate: string;
 
-  public constructor() {
-    this.name = "Guntur Alamsyah Putra";
-    this.age = 18;
-    this.pronouns = "he/him";
-    this.occupation = "Freelancer";
-    this.hobby = "Programming";
-    this.vocationalSchoolGraduate;
-    ("SMK AL-AQSYAR ISLAMIC SCHOOL");
-  }
-}
-```
 
 <br/>
 
