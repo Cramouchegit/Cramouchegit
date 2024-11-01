@@ -25,7 +25,7 @@ class gunturAlamsyah {
 <br />
 
 <h1>
-   Social Media     
+   Connect With Me :
 </h1>
 
 <div id="badges">
@@ -42,7 +42,7 @@ class gunturAlamsyah {
       <img src="https://img.shields.io/badge/crmchscara_-0078D4?style=for-the-badge&logo=threads&logoColor=00AEFF&labelColor=black&color=black">
     </a>
     <a href="https://github.com/Cramouchegit">
-      <img src="https://img.shields.io/badge/Cramouchegit_-0078D4?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=black&color=pink">
+      <img src="https://img.shields.io/badge/Cramouchegit_-0078D4?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=black&color=black">
     </a>
 </div>
 
